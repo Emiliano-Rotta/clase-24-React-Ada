@@ -1,0 +1,36 @@
+body, h1, h2, h3, h4, h5, h6, p, ul, li {
+  margin: 0
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.boton-amarillo {
+  background-color: yellow;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  width: 100px;
+  align-self: center
+}
+
+.boton-violeta {
+  background-color: violet;
+  height: 30px;
+  border: none;
+  border-radius: 10px;
+  width: 100px;
+  align-self: center
+}
+
+
+
+footer {
+  background-color: coral;
+  height: 100px;
+}
+
+section {
+  display: flex;  
+}

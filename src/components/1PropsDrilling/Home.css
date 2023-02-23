@@ -1,0 +1,9 @@
+.contenedor-tarjetas {
+  display: flex
+}
+
+@media (max-width: 600px) {
+  .contenedor-tarjetas {
+    flex-wrap: wrap;
+  }
+}
