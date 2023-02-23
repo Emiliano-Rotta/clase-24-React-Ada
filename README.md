@@ -1,0 +1,1 @@
+En components hay dos carpetas que representan los dos temas vistos en clase, ademas hay otra carpeta, context, que corresponde al ejercicio 2
